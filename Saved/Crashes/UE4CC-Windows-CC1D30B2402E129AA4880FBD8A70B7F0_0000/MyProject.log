@@ -1,0 +1,889 @@
+﻿Log file open, 11/12/18 19:09:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186934
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.098s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=DeadlyHit -epicuserid=316f18b9550049aea0f3f70bf8d286e7 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.12-19.09.43:362][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:362][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.12-19.09.43:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:363][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.12-19.09.43:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.12-19.09.43:369][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.12-19.09.43:369][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-19.09.43:369][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-19.09.43:389][  0]LogHAL: Display: Platform has ~ 8 GB [8551890944 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.12-19.09.43:389][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.12-19.09.43:389][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.12-19.09.43:390][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.12-19.09.43:391][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.12-19.09.43:391][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.12-19.09.43:391][  0]LogInit: Computer: DESKTOP-GP8SS46
+[2018.11.12-19.09.43:391][  0]LogInit: User: Meth
+[2018.11.12-19.09.43:391][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.12-19.09.43:391][  0]LogInit: High frequency timer resolution =3.312791 MHz
+[2018.11.12-19.09.43:391][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.11.12-19.09.43:391][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-19.09.43:391][  0]LogMemory: Process Physical Memory: 101.27 MB used, 101.27 MB peak
+[2018.11.12-19.09.43:391][  0]LogMemory: Process Virtual Memory: 90.92 MB used, 90.92 MB peak
+[2018.11.12-19.09.43:391][  0]LogMemory: Physical Memory: 6252.94 MB used,  1902.78 MB free, 8155.72 MB total
+[2018.11.12-19.09.43:391][  0]LogMemory: Virtual Memory: 4634.43 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.11.12-19.09.43:410][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-19.09.43:410][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.12-19.09.43:410][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.12-19.09.43:819][  0]LogStreaming: Display: Took  0.410s to InitEngineTextLocalization.
+[2018.11.12-19.09.43:819][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.12-19.09.43:849][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-19.09.43:849][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-19.09.44:050][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-19.09.44:050][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-19.09.44:093][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.11.12-19.09.44:093][  0]LogD3D11RHI:       2028/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.11.12-19.09.44:095][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-19.09.44:095][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-19.09.44:095][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-19.09.44:099][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-19.09.44:099][  0]LogD3D11RHI:     GPU DeviceId: 0x6810 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-19.09.44:099][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-19.09.44:100][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.11.12-19.09.44:100][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:100][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:101][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:101][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:101][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:102][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:102][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:102][  0]LogWindows:    8. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:102][  0]LogWindows:    9. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:103][  0]LogWindows:    10. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:103][  0]LogWindows:    11. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:103][  0]LogWindows:    12. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:104][  0]LogWindows:    13. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:104][  0]LogWindows:    14. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:104][  0]LogWindows:    15. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.11.12-19.09.44:105][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2018.11.12-19.09.44:105][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.11.12-19.09.44:105][  0]LogD3D11RHI:   Driver Version: Adrenalin 17.12.2 (internal:23.20.15007.1005, unified:23.20.15007.1005)
+[2018.11.12-19.09.44:105][  0]LogD3D11RHI:      Driver Date: 12-17-2017
+[2018.11.12-19.09.44:105][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.11.12-19.09.44:179][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-19.09.44:208][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.11.12-19.09.44:595][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.12-19.09.44:609][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.12-19.09.44:623][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.12-19.09.44:637][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.12-19.09.44:652][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.12-19.09.44:666][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-19.09.44:680][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-19.09.44:694][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-19.09.44:701][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:787][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-19.09.44:788][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.12-19.09.44:852][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-19.09.44:852][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-19.09.44:879][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-19.09.44:879][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-19.09.44:894][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.12-19.09.44:908][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.12-19.09.44:923][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.12-19.09.44:937][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.12-19.09.44:988][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-19.09.44:989][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-19.09.44:989][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-19.09.45:041][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Intermediate/Shaders/WorkingDirectory/6348/).
+[2018.11.12-19.09.45:041][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Meth/AppData/Local/Temp/UnrealShaderWorkingDir/07BA95AA47885369B10F74800D6542F3/'.
+[2018.11.12-19.09.45:043][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-19.09.45:043][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-19.09.45:043][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-19.09.45:610][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-19.09.45:665][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-19.09.45:679][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-19.09.45:679][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-19.09.45:679][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.11.12-19.09.45:691][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Meth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-19.09.45:691][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-19.09.45:691][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-19.09.45:716][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-19.09.45:717][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.12-19.09.45:718][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-19.09.45:805][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.11.12-19.09.46:193][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-19.09.46:357][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-19.09.46:361][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-19.09.46:361][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.12-19.09.46:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-19.09.46:361][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-19.09.46:374][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2018.11.12-19.09.46:930][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103572 seconds
+[2018.11.12-19.09.46:936][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.12-19.09.46:936][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.11.12-19.09.46:937][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-19.09.47:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-19.09.47:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-19.09.48:523][  0]SourceControl: Source control is disabled
+[2018.11.12-19.09.48:523][  0]SourceControl: Source control is disabled
+[2018.11.12-19.09.48:525][  0]SourceControl: Source control is disabled
+[2018.11.12-19.09.48:526][  0]SourceControl: Source control is disabled
+[2018.11.12-19.09.48:686][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-19.09.48:736][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-19.09.48:874][  0]LogEngine: Initializing Engine...
+[2018.11.12-19.09.48:875][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-19.09.48:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-19.09.48:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-19.09.48:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-19.09.48:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-19.09.49:122][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.12-19.09.49:137][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-19.09.49:157][  0]LogInit: XAudio2 using 'Speakers (2- Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-19.09.49:171][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-19.09.49:172][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.12-19.09.49:299][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.12-19.09.49:305][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-19.09.49:322][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.12-19.09.49:334][  0]LogInit: Transaction tracking system initialized
+[2018.11.12-19.09.49:355][  0]BlueprintLog: New page: Editor Load
+[2018.11.12-19.09.49:422][  0]LocalizationService: Localization service is disabled
+[2018.11.12-19.09.49:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/' took 0.02s
+[2018.11.12-19.09.49:892][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.12-19.09.49:892][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.12-19.09.49:892][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-19.09.49:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-19.09.49:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-19.09.49:893][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-19.09.49:893][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-19.09.50:010][  0]SourceControl: Source control is disabled
+[2018.11.12-19.09.50:010][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-19.09.50:017][  0]LightingResults: New page: Lighting Build
+[2018.11.12-19.09.50:019][  0]MapCheck: New page: Map Check
+[2018.11.12-19.09.50:019][  0]LightingResults: New page: Lighting Build
+[2018.11.12-19.09.50:958][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.12-19.09.51:010][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-19.09.51:033][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-19.09.51:033][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2018.11.12-19.09.51:033][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.024
+[2018.11.12-19.09.51:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-19.09.51:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-19.09.51:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-19.09.51:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-19.09.51:263][  0]LogCollectionManager: Loaded 0 collections in 0.001463 seconds
+[2018.11.12-19.09.51:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Collections/' took 0.01s
+[2018.11.12-19.09.51:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Developers/Meth/Collections/' took 0.00s
+[2018.11.12-19.09.51:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Collections/' took 0.00s
+[2018.11.12-19.09.51:309][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.12-19.09.51:324][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2651 classes and 620 folders.
+[2018.11.12-19.09.51:346][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.12-19.09.51:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.12-19.09.51:843][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.12-19.09.51:860][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.12-19.09.51:952][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-19.09.51:955][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-19.09.51:970][  0]LogSlate: Took 0.007272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-19.09.52:154][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-19.09.52:423][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.09.52:470][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.12-19.09.52:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.12-19.09.52:499][  0]LogLoad: (Engine Initialization) Total time: 10.83 seconds
+[2018.11.12-19.09.52:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-19.09.52:510][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-19.09.52:585][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-19.09.52:654][  1]LogAssetRegistry: Asset discovery search completed in 6.8708 seconds
+[2018.11.12-19.09.52:655][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.12-19.09.52:655][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.11.12-19.09.56:628][470]LogSlate: Took 0.006417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-19.11.52:384][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.11.53:411][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.11.55:151][650]Cmd: MAP LOAD FILE="../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Map/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-19.11.55:155][650]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-19.11.55:162][650]LightingResults: New page: Lighting Build
+[2018.11.12-19.11.55:163][650]LoadErrors: New page: Loading map: Untitled.umap
+[2018.11.12-19.11.55:166][650]MapCheck: New page: Map Check
+[2018.11.12-19.11.55:166][650]LightingResults: New page: Lighting Build
+[2018.11.12-19.11.55:269][650]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-19.11.55:280][650]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-19.11.55:328][650]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-19.11.55:328][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2018.11.12-19.11.55:328][650]LogFileHelpers: Loading map 'Untitled' took 0.178
+[2018.11.12-19.11.55:331][650]LogSlate: Window 'Open Level' being destroyed
+[2018.11.12-20.34.32:059][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.34.35:539][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/UpRamp.FBX]
+[2018.11.12-20.34.35:575][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/UpRamp.FBX
+[2018.11.12-20.34.35:586][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.35:618][520]LogFbx: Warning: Triangulating static mesh Plane008
+[2018.11.12-20.34.35:635][520]LogStaticMesh: Building static mesh UpRamp...
+[2018.11.12-20.34.35:643][520]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Maps/LevelModular/UpRamp.UpRamp
+[2018.11.12-20.34.35:692][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.35:701][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/BigPit.FBX]
+[2018.11.12-20.34.35:724][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/BigPit.FBX
+[2018.11.12-20.34.35:730][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.35:738][520]LogFbx: Warning: Triangulating static mesh Box002
+[2018.11.12-20.34.35:745][520]LogStaticMesh: Building static mesh BigPit...
+[2018.11.12-20.34.35:747][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/BigPit.BigPit
+[2018.11.12-20.34.35:754][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.35:761][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/DownRamp.FBX]
+[2018.11.12-20.34.35:786][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/DownRamp.FBX
+[2018.11.12-20.34.35:792][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.35:799][520]LogFbx: Warning: Triangulating static mesh Plane013
+[2018.11.12-20.34.35:806][520]LogStaticMesh: Building static mesh DownRamp...
+[2018.11.12-20.34.35:807][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/DownRamp.DownRamp
+[2018.11.12-20.34.35:815][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.35:821][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LeftCorner.FBX]
+[2018.11.12-20.34.35:848][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LeftCorner.FBX
+[2018.11.12-20.34.35:854][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.35:861][520]LogFbx: Warning: Triangulating static mesh Plane007
+[2018.11.12-20.34.35:873][520]LogStaticMesh: Building static mesh LeftCorner...
+[2018.11.12-20.34.35:873][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/LeftCorner.LeftCorner
+[2018.11.12-20.34.35:878][520]LogStaticMesh: Warning: LeftCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.12-20.34.35:878][520]LogStaticMesh: Warning: LeftCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.12-20.34.35:884][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.35:886][520]FBXImport: Warning: LeftCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.12-20.34.35:886][520]FBXImport: Warning: LeftCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.12-20.34.35:890][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LeftTurn.FBX]
+[2018.11.12-20.34.35:925][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LeftTurn.FBX
+[2018.11.12-20.34.35:932][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.35:944][520]LogFbx: Warning: Triangulating static mesh Plane014
+[2018.11.12-20.34.35:955][520]LogStaticMesh: Building static mesh LeftTurn...
+[2018.11.12-20.34.35:956][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/LeftTurn.LeftTurn
+[2018.11.12-20.34.35:968][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.35:975][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LongWalk.FBX]
+[2018.11.12-20.34.36:013][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/LongWalk.FBX
+[2018.11.12-20.34.36:019][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:026][520]LogFbx: Warning: Triangulating static mesh Plane002
+[2018.11.12-20.34.36:041][520]LogStaticMesh: Building static mesh LongWalk...
+[2018.11.12-20.34.36:041][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/LongWalk.LongWalk
+[2018.11.12-20.34.36:055][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:061][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/PlatSmall.FBX]
+[2018.11.12-20.34.36:111][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/PlatSmall.FBX
+[2018.11.12-20.34.36:117][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:139][520]LogStaticMesh: Building static mesh PlatSmall...
+[2018.11.12-20.34.36:142][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/PlatSmall.PlatSmall
+[2018.11.12-20.34.36:158][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:164][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/PlatWide.FBX]
+[2018.11.12-20.34.36:212][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/PlatWide.FBX
+[2018.11.12-20.34.36:218][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:225][520]LogFbx: Warning: Triangulating static mesh Box006
+[2018.11.12-20.34.36:240][520]LogStaticMesh: Building static mesh PlatWide...
+[2018.11.12-20.34.36:243][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/PlatWide.PlatWide
+[2018.11.12-20.34.36:260][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:267][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/RightCorner.FBX]
+[2018.11.12-20.34.36:313][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/RightCorner.FBX
+[2018.11.12-20.34.36:319][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:327][520]LogFbx: Warning: Triangulating static mesh Plane006
+[2018.11.12-20.34.36:342][520]LogStaticMesh: Building static mesh RightCorner...
+[2018.11.12-20.34.36:343][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/RightCorner.RightCorner
+[2018.11.12-20.34.36:353][520]LogStaticMesh: Warning: RightCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.12-20.34.36:353][520]LogStaticMesh: Warning: RightCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.12-20.34.36:361][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:363][520]FBXImport: Warning: RightCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.12-20.34.36:363][520]FBXImport: Warning: RightCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.12-20.34.36:367][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/RightTurn.FBX]
+[2018.11.12-20.34.36:413][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/RightTurn.FBX
+[2018.11.12-20.34.36:419][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:426][520]LogFbx: Warning: Triangulating static mesh Plane005
+[2018.11.12-20.34.36:442][520]LogStaticMesh: Building static mesh RightTurn...
+[2018.11.12-20.34.36:443][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/RightTurn.RightTurn
+[2018.11.12-20.34.36:461][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:467][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/SmallPit.FBX]
+[2018.11.12-20.34.36:514][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/SmallPit.FBX
+[2018.11.12-20.34.36:520][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:528][520]LogFbx: Warning: Triangulating static mesh Box013
+[2018.11.12-20.34.36:544][520]LogStaticMesh: Building static mesh SmallPit...
+[2018.11.12-20.34.36:547][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/SmallPit.SmallPit
+[2018.11.12-20.34.36:565][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:571][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/SmalLWalk.FBX]
+[2018.11.12-20.34.36:622][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/SmalLWalk.FBX
+[2018.11.12-20.34.36:628][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:635][520]LogFbx: Warning: Triangulating static mesh Plane012
+[2018.11.12-20.34.36:653][520]LogStaticMesh: Building static mesh SmalLWalk...
+[2018.11.12-20.34.36:653][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/SmalLWalk.SmalLWalk
+[2018.11.12-20.34.36:666][520]LogStaticMesh: Warning: SmalLWalk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.12-20.34.36:674][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:677][520]FBXImport: Warning: SmalLWalk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.12-20.34.36:681][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/Spltiter.FBX]
+[2018.11.12-20.34.36:732][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/Spltiter.FBX
+[2018.11.12-20.34.36:738][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:745][520]LogFbx: Warning: Triangulating static mesh Plane003
+[2018.11.12-20.34.36:763][520]LogStaticMesh: Building static mesh Spltiter...
+[2018.11.12-20.34.36:764][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/Spltiter.Spltiter
+[2018.11.12-20.34.36:775][520]LogStaticMesh: Warning: Spltiter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.12-20.34.36:775][520]LogStaticMesh: Warning: Spltiter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.12-20.34.36:783][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:786][520]FBXImport: Warning: Spltiter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.12-20.34.36:786][520]FBXImport: Warning: Spltiter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.12-20.34.36:790][520]LogEditorFactories: Performing atomic reimport of [C:/Users/Meth/Desktop/MAC Life/Map modular pieces/Start End.FBX]
+[2018.11.12-20.34.36:844][520]LogFbx: Loading FBX Scene from C:/Users/Meth/Desktop/MAC Life/Map modular pieces/Start End.FBX
+[2018.11.12-20.34.36:850][520]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-20.34.36:859][520]LogFbx: Warning: Triangulating static mesh Plane001
+[2018.11.12-20.34.36:876][520]LogStaticMesh: Building static mesh Start_End...
+[2018.11.12-20.34.36:876][520]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Maps/LevelModular/Start_End.Start_End
+[2018.11.12-20.34.36:890][520]LogStaticMesh: Warning: Start_End has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.12-20.34.36:890][520]LogStaticMesh: Warning: Start_End has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.12-20.34.36:898][520]LogEditorFactories: -- imported successfully
+[2018.11.12-20.34.36:901][520]FBXImport: Warning: Start_End has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.12-20.34.36:901][520]FBXImport: Warning: Start_End has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.12-20.34.50:513][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (UpRamp)
+[2018.11.12-20.34.51:236][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (UpRamp)
+[2018.11.12-20.34.58:199][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.35.28:415][863]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-20.35.29:231][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.35.31:053][ 16]LogActorFactory: Actor Factory created BigPit
+[2018.11.12-20.35.31:691][ 80]LogActorFactory: Actor Factory created BigPit
+[2018.11.12-20.35.47:216][633]Cmd: DELETE
+[2018.11.12-20.35.47:216][633]Cmd: ACTOR DELETE
+[2018.11.12-20.35.47:237][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.12-20.35.47:264][633]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.11.12-20.35.48:474][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.35.48:573][707]LogActorFactory: Actor Factory created SmallPit
+[2018.11.12-20.35.49:186][779]LogActorFactory: Actor Factory created SmallPit
+[2018.11.12-20.36.23:033][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-20.36.51:242][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto155B83CBB40D3E83A94F7BDA51CB21C3B.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto1.umap'
+[2018.11.12-20.36.51:251][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 0.253
+[2018.11.12-20.36.51:251][599]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2018.11.12-20.36.51:254][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/BigPit] ([1] browsable assets)...
+[2018.11.12-20.36.51:287][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/BigPit.BigPit]
+[2018.11.12-20.36.51:287][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/BigPit]
+[2018.11.12-20.36.51:313][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/BigPit_Auto165745924456B0E96A8D0FE83DC001FCA.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/BigPit_Auto1.uasset'
+[2018.11.12-20.36.51:315][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/RightTurn] ([1] browsable assets)...
+[2018.11.12-20.36.51:351][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/RightTurn.RightTurn]
+[2018.11.12-20.36.51:351][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/RightTurn]
+[2018.11.12-20.36.51:376][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/RightTurn_Auto152A3A54546670BA71CD23DACC577C190.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/RightTurn_Auto1.uasset'
+[2018.11.12-20.36.51:377][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/Start_End] ([1] browsable assets)...
+[2018.11.12-20.36.51:413][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/Start_End.Start_End]
+[2018.11.12-20.36.51:413][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/Start_End]
+[2018.11.12-20.36.51:439][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Start_End_Auto1F7657F28460C8FA5DF358682151581D4.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/Start_End_Auto1.uasset'
+[2018.11.12-20.36.51:441][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/UpRamp] ([1] browsable assets)...
+[2018.11.12-20.36.51:478][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/UpRamp.UpRamp]
+[2018.11.12-20.36.51:478][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/UpRamp]
+[2018.11.12-20.36.51:502][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/UpRamp_Auto11F2EB99E4309B0D958F33E81D4D46967.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/UpRamp_Auto1.uasset'
+[2018.11.12-20.36.51:503][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/DownRamp] ([1] browsable assets)...
+[2018.11.12-20.36.51:536][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/DownRamp.DownRamp]
+[2018.11.12-20.36.51:536][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/DownRamp]
+[2018.11.12-20.36.51:561][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/DownRamp_Auto12392386748BBEFBB8C6A15BD35F8F74B.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/DownRamp_Auto1.uasset'
+[2018.11.12-20.36.51:562][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/LeftCorner] ([1] browsable assets)...
+[2018.11.12-20.36.51:598][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/LeftCorner.LeftCorner]
+[2018.11.12-20.36.51:599][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/LeftCorner]
+[2018.11.12-20.36.51:623][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/LeftCorner_Auto14A51B19940641D52D69EC4A30952E858.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/LeftCorner_Auto1.uasset'
+[2018.11.12-20.36.51:624][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/LeftTurn] ([1] browsable assets)...
+[2018.11.12-20.36.51:660][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/LeftTurn.LeftTurn]
+[2018.11.12-20.36.51:660][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/LeftTurn]
+[2018.11.12-20.36.51:684][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/LeftTurn_Auto19E9A9B664E3948E387A3DA86B78924C0.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/LeftTurn_Auto1.uasset'
+[2018.11.12-20.36.51:685][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/LongWalk] ([1] browsable assets)...
+[2018.11.12-20.36.51:719][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/LongWalk.LongWalk]
+[2018.11.12-20.36.51:719][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/LongWalk]
+[2018.11.12-20.36.51:742][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/LongWalk_Auto17804B041468CA18A898B99A5EB3115DC.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/LongWalk_Auto1.uasset'
+[2018.11.12-20.36.51:743][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/PlatSmall] ([1] browsable assets)...
+[2018.11.12-20.36.51:780][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/PlatSmall.PlatSmall]
+[2018.11.12-20.36.51:780][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/PlatSmall]
+[2018.11.12-20.36.51:803][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/PlatSmall_Auto1232B51244AD8ED29D9E39FBE28F46480.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/PlatSmall_Auto1.uasset'
+[2018.11.12-20.36.51:804][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/PlatWide] ([1] browsable assets)...
+[2018.11.12-20.36.51:837][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/PlatWide.PlatWide]
+[2018.11.12-20.36.51:837][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/PlatWide]
+[2018.11.12-20.36.51:861][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/PlatWide_Auto1BD551AE643DE3191330B74964020A39C.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/PlatWide_Auto1.uasset'
+[2018.11.12-20.36.51:862][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/RightCorner] ([1] browsable assets)...
+[2018.11.12-20.36.51:882][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/RightCorner.RightCorner]
+[2018.11.12-20.36.51:882][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/RightCorner]
+[2018.11.12-20.36.51:908][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/RightCorner_Auto1333B253D4D0B22A48ABA62B3E3D6105B.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/RightCorner_Auto1.uasset'
+[2018.11.12-20.36.51:909][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/SmallPit] ([1] browsable assets)...
+[2018.11.12-20.36.51:947][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/SmallPit.SmallPit]
+[2018.11.12-20.36.51:947][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/SmallPit]
+[2018.11.12-20.36.51:970][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/SmallPit_Auto1CF6B338A413764A3BC8D489B3F788053.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/SmallPit_Auto1.uasset'
+[2018.11.12-20.36.51:971][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/SmalLWalk] ([1] browsable assets)...
+[2018.11.12-20.36.52:004][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/SmalLWalk.SmalLWalk]
+[2018.11.12-20.36.52:004][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/SmalLWalk]
+[2018.11.12-20.36.52:040][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/SmalLWalk_Auto192B4BD9B4713CB62E1D67CBF71C1EFAB.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/SmalLWalk_Auto1.uasset'
+[2018.11.12-20.36.52:041][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/LevelModular/Spltiter] ([1] browsable assets)...
+[2018.11.12-20.36.52:070][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Maps/LevelModular/Spltiter.Spltiter]
+[2018.11.12-20.36.52:070][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/LevelModular/Spltiter]
+[2018.11.12-20.36.52:096][599]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Spltiter_Auto18F8BEEE44DAADCE206BB4A9AB5A228FF.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/LevelModular/Spltiter_Auto1.uasset'
+[2018.11.12-20.36.52:097][599]LogFileHelpers: Auto-saving content packages took 0.844
+[2018.11.12-20.41.23:212][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.41.23:330][125]LogActorFactory: Actor Factory created PlatWide
+[2018.11.12-20.41.24:849][270]LogActorFactory: Actor Factory created PlatWide
+[2018.11.12-20.41.28:186][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.41.28:258][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.12-20.41.28:281][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.41.28:283][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-20.41.28:286][621]PIE: New page: PIE session: Untitled (12 Nov 2018 20:41:28)
+[2018.11.12-20.41.28:303][621]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Untitled
+[2018.11.12-20.41.28:309][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005638s)
+[2018.11.12-20.41.28:310][621]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-20.41.28:311][621]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2018.11.12-20.41.28:311][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Untitled.Untitled to /Game/Map/UEDPIE_0_Untitled.Untitled (0.007765s)
+[2018.11.12-20.41.28:342][621]LogInit: XAudio2 using 'Speakers (2- Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-20.41.28:353][621]LogInit: FAudioDevice initialized.
+[2018.11.12-20.41.28:419][621]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-20.41.28:428][621]LogWorld: Bringing World /Game/Map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2018.11.12-20.41.28
+[2018.11.12-20.41.28:429][621]LogWorld: Bringing up level for play took: 0.002060
+[2018.11.12-20.41.28:473][621]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2018.11.12-20.41.28:483][621]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Untitled -0.311
+[2018.11.12-20.41.28:483][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.41.50:245][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.41.50:245][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-20.41.50:282][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-20.41.50:283][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.41.50:307][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-20.41.50:349][178]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: libcurl info message cache 0 (Connection 39 seems to be dead!)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: libcurl info message cache 1 (Closing connection 39)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: 000001E7B467B600: libcurl info message cache 4 (Closing connection 40)
+[2018.11.12-20.41.52:352][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBEFE38D1-4298-57DB-95C6-F3B5AE7E84EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=b4fc358c42f7766b5d1297921d16f926%7C316f18b9550049aea0f3f70bf8d286e7%7C3655c11c-e24d-468e-a194-823e2111ec19&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.11.12-20.41.54:840][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatWide)
+[2018.11.12-20.42.04:993][729]Cmd: TRANSACTION UNDO
+[2018.11.12-20.42.04:993][729]LogEditorTransaction: Undo Move Actors
+[2018.11.12-20.44.18:437][453]LogSlate: Took 0.007143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.12-20.44.20:950][676]Cmd: EDIT COPY
+[2018.11.12-20.44.21:118][693]Cmd: EDIT PASTE
+[2018.11.12-20.44.24:625][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.44.24:725][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.12-20.44.24:739][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.44.24:739][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-20.44.24:739][ 63]PIE: New page: PIE session: Untitled (12 Nov 2018 20:44:24)
+[2018.11.12-20.44.24:740][ 63]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Untitled
+[2018.11.12-20.44.24:744][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004287s)
+[2018.11.12-20.44.24:744][ 63]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-20.44.24:745][ 63]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.11.12-20.44.24:745][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Untitled.Untitled to /Game/Map/UEDPIE_0_Untitled.Untitled (0.005072s)
+[2018.11.12-20.44.24:771][ 63]LogInit: XAudio2 using 'Speakers (2- Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-20.44.24:782][ 63]LogInit: FAudioDevice initialized.
+[2018.11.12-20.44.24:815][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-20.44.24:816][ 63]LogWorld: Bringing World /Game/Map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2018.11.12-20.44.24
+[2018.11.12-20.44.24:817][ 63]LogWorld: Bringing up level for play took: 0.000930
+[2018.11.12-20.44.24:830][ 63]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Untitled 0.037
+[2018.11.12-20.44.24:830][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.44.58:094][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.44.58:094][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-20.44.58:128][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-20.44.58:129][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.11.12-20.44.58:155][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-20.44.58:198][  5]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.12-20.47.47:338][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-20.47.47:495][603]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto21DF19177483444EC5640D8B400C2ED09.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto2.umap'
+[2018.11.12-20.47.47:498][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 0.149
+[2018.11.12-20.47.47:498][603]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.11.12-20.52.42:325][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.52.42:440][ 33]LogActorFactory: Actor Factory created RightCorner
+[2018.11.12-20.52.43:303][133]LogActorFactory: Actor Factory created RightCorner
+[2018.11.12-20.57.47:897][259]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto3A4BE1CB14C1617AC653C789C8B8B5957.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto3.umap'
+[2018.11.12-20.57.47:901][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 0.151
+[2018.11.12-20.57.47:901][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2018.11.12-21.37.11:189][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-21.51.52:594][ 96]LogHttp: Warning: 000001E7BCDFA340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: 000001E7BCDFA340: libcurl info message cache 0 (Connection 72 seems to be dead!)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: 000001E7BCDFA340: libcurl info message cache 1 (Closing connection 72)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: 000001E7BCDFA340: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: 000001E7BCDFA340: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: 000001E7BCDFA340: libcurl info message cache 4 (Closing connection 73)
+[2018.11.12-21.51.52:595][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBEFE38D1-4298-57DB-95C6-F3B5AE7E84EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=b4fc358c42f7766b5d1297921d16f926%7C316f18b9550049aea0f3f70bf8d286e7%7C3655c11c-e24d-468e-a194-823e2111ec19&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.11.12-22.15.19:832][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SyncInterval 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000040F1C
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.Windowed true
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2018.11.12-22.15.21:216][265]LogRHI: Error: SwapChainDesc.Flags 2
+[2018.11.12-22.15.21:221][265]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2018.11.12-22.15.21:221][265]LogD3D11RHI: [Aftermath] GDynamicRHI=000001E7FD9340C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.11.12-22.15.21:221][265]LogWindows: Windows GetLastError: The operation completed successfully. (0)

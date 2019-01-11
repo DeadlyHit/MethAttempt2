@@ -1,0 +1,965 @@
+﻿Log file open, 12/04/18 19:21:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190863
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=DeadlyHit -epicuserid=316f18b9550049aea0f3f70bf8d286e7 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.04-19.21.04:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.04-19.21.04:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:059][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.04-19.21.04:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.04-19.21.04:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.04-19.21.04:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.04-19.21.04:065][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-19.21.04:065][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.04-19.21.04:087][  0]LogHAL: Display: Platform has ~ 8 GB [8551890944 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.04-19.21.04:087][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.04-19.21.04:087][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.04-19.21.04:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.04-19.21.04:088][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.04-19.21.04:088][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.04-19.21.04:089][  0]LogInit: Computer: DESKTOP-GP8SS46
+[2018.12.04-19.21.04:089][  0]LogInit: User: Meth
+[2018.12.04-19.21.04:089][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.04-19.21.04:089][  0]LogInit: High frequency timer resolution =3.312793 MHz
+[2018.12.04-19.21.04:089][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.12.04-19.21.04:089][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.04-19.21.04:089][  0]LogMemory: Process Physical Memory: 102.20 MB used, 102.20 MB peak
+[2018.12.04-19.21.04:089][  0]LogMemory: Process Virtual Memory: 84.85 MB used, 84.85 MB peak
+[2018.12.04-19.21.04:089][  0]LogMemory: Physical Memory: 6244.16 MB used,  1911.55 MB free, 8155.72 MB total
+[2018.12.04-19.21.04:089][  0]LogMemory: Virtual Memory: 4627.99 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.12.04-19.21.04:106][  0]LogInit: Using OS detected language (en-US).
+[2018.12.04-19.21.04:106][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.04-19.21.04:107][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.04-19.21.04:509][  0]LogStreaming: Display: Took  0.403s to InitEngineTextLocalization.
+[2018.12.04-19.21.04:509][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.04-19.21.04:538][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.04-19.21.04:538][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.04-19.21.04:745][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-19.21.04:745][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.04-19.21.04:772][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.12.04-19.21.04:772][  0]LogD3D11RHI:       2028/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.04-19.21.04:774][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.04-19.21.04:774][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.04-19.21.04:774][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.04-19.21.04:779][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.04-19.21.04:779][  0]LogD3D11RHI:     GPU DeviceId: 0x6810 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.04-19.21.04:779][  0]LogWindows: EnumDisplayDevices:
+[2018.12.04-19.21.04:779][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.12.04-19.21.04:779][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:780][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:780][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:780][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:781][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:781][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:781][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:782][  0]LogWindows:    8. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:782][  0]LogWindows:    9. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:782][  0]LogWindows:    10. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:783][  0]LogWindows:    11. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:783][  0]LogWindows:    12. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:783][  0]LogWindows:    13. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:783][  0]LogWindows:    14. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:784][  0]LogWindows:    15. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.12.04-19.21.04:784][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2018.12.04-19.21.04:784][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.12.04-19.21.04:784][  0]LogD3D11RHI:   Driver Version: Adrenalin 17.12.2 (internal:23.20.15007.1005, unified:23.20.15007.1005)
+[2018.12.04-19.21.04:784][  0]LogD3D11RHI:      Driver Date: 12-17-2017
+[2018.12.04-19.21.04:784][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.12.04-19.21.04:840][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.04-19.21.04:851][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.12.04-19.21.05:145][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.04-19.21.05:160][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.04-19.21.05:175][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.04-19.21.05:189][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.04-19.21.05:204][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.04-19.21.05:218][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.04-19.21.05:233][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.04-19.21.05:249][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.04-19.21.05:256][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-19.21.05:343][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.04-19.21.05:407][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-19.21.05:407][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-19.21.05:432][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-19.21.05:432][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-19.21.05:446][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.04-19.21.05:460][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.04-19.21.05:474][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.04-19.21.05:490][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.04-19.21.05:542][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-19.21.05:542][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-19.21.05:542][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.04-19.21.05:598][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Intermediate/Shaders/WorkingDirectory/15000/).
+[2018.12.04-19.21.05:599][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Meth/AppData/Local/Temp/UnrealShaderWorkingDir/900F86D54EA141B2859142A55552F23E/'.
+[2018.12.04-19.21.05:601][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.04-19.21.05:601][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.04-19.21.05:601][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.04-19.21.06:172][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-19.21.06:228][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.04-19.21.06:243][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.04-19.21.06:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-19.21.06:243][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.04-19.21.06:255][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Meth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.04-19.21.06:255][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.04-19.21.06:255][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.04-19.21.06:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.04-19.21.06:283][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.04-19.21.06:283][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.04-19.21.06:371][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2018.12.04-19.21.06:771][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-19.21.06:935][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.04-19.21.06:938][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.04-19.21.06:938][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.04-19.21.06:938][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.04-19.21.06:938][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.04-19.21.06:951][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2018.12.04-19.21.07:513][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.110339 seconds
+[2018.12.04-19.21.07:519][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.04-19.21.07:519][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.04-19.21.07:519][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.04-19.21.08:400][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.04-19.21.08:413][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.04-19.21.09:111][  0]SourceControl: Source control is disabled
+[2018.12.04-19.21.09:111][  0]SourceControl: Source control is disabled
+[2018.12.04-19.21.09:112][  0]SourceControl: Source control is disabled
+[2018.12.04-19.21.09:113][  0]SourceControl: Source control is disabled
+[2018.12.04-19.21.09:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.04-19.21.09:323][  0]LogOcInput: OculusInput pre-init called
+[2018.12.04-19.21.09:463][  0]LogEngine: Initializing Engine...
+[2018.12.04-19.21.09:464][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-19.21.09:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-19.21.09:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-19.21.09:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-19.21.09:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-19.21.09:713][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.04-19.21.09:727][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-19.21.09:744][  0]LogInit: XAudio2 using 'Speakers (2- Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-19.21.09:757][  0]LogInit: FAudioDevice initialized.
+[2018.12.04-19.21.09:758][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.04-19.21.09:869][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Meth/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.04-19.21.09:881][  0]LogInit: Texture streaming: Enabled
+[2018.12.04-19.21.09:898][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.04-19.21.09:913][  0]LogInit: Transaction tracking system initialized
+[2018.12.04-19.21.09:936][  0]BlueprintLog: New page: Editor Load
+[2018.12.04-19.21.10:006][  0]LocalizationService: Localization service is disabled
+[2018.12.04-19.21.10:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/' took 0.02s
+[2018.12.04-19.21.10:484][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.04-19.21.10:484][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.04-19.21.10:484][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.04-19.21.10:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-19.21.10:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-19.21.10:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-19.21.10:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-19.21.10:606][  0]SourceControl: Source control is disabled
+[2018.12.04-19.21.10:606][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-19.21.10:613][  0]LightingResults: New page: Lighting Build
+[2018.12.04-19.21.10:616][  0]MapCheck: New page: Map Check
+[2018.12.04-19.21.10:616][  0]LightingResults: New page: Lighting Build
+[2018.12.04-19.21.11:631][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-19.21.11:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-19.21.11:695][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-19.21.11:695][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2018.12.04-19.21.11:695][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.090
+[2018.12.04-19.21.11:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.21.11:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.21.11:870][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.21.11:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.21.11:906][  0]LogCollectionManager: Loaded 0 collections in 0.001923 seconds
+[2018.12.04-19.21.11:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Collections/' took 0.01s
+[2018.12.04-19.21.11:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Developers/Meth/Collections/' took 0.00s
+[2018.12.04-19.21.11:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Collections/' took 0.00s
+[2018.12.04-19.21.11:948][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.04-19.21.11:960][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2651 classes and 620 folders.
+[2018.12.04-19.21.11:979][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.04-19.21.11:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:265][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.04-19.21.12:587][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.04-19.21.12:603][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.04-19.21.12:685][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.04-19.21.12:687][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.04-19.21.12:703][  0]LogSlate: Took 0.006894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.04-19.21.12:881][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-19.21.13:056][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-19.21.13:107][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.04-19.21.13:138][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.04-19.21.13:138][  0]LogLoad: (Engine Initialization) Total time: 10.69 seconds
+[2018.12.04-19.21.13:138][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.04-19.21.13:149][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-19.21.13:226][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.04-19.21.13:294][  1]LogAssetRegistry: Asset discovery search completed in 6.9458 seconds
+[2018.12.04-19.21.13:296][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.04-19.21.13:296][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.12.04-19.21.17:274][467]LogSlate: Took 0.006922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-19.21.25:968][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-19.21.46:292][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-19.21.47:483][ 47]Cmd: MAP LOAD FILE="../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Map/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-19.21.47:487][ 47]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-19.21.47:495][ 47]LightingResults: New page: Lighting Build
+[2018.12.04-19.21.47:496][ 47]LoadErrors: New page: Loading map: Untitled.umap
+[2018.12.04-19.21.47:501][ 47]MapCheck: New page: Map Check
+[2018.12.04-19.21.47:501][ 47]LightingResults: New page: Lighting Build
+[2018.12.04-19.21.47:614][ 47]LogBlueprint: Error: [Compiler SpinningBlade] In use pin  Other ACtor  no longer exists on node  HittedSomething . Please refresh node or break links to remove pin.
+[2018.12.04-19.21.47:626][ 47]LogBlueprint: Error: [Compiler SpinningBlade] HittedSomething  Signature Error: Unable to find the selected function/event: 'HittedSomething' - has it been deleted?
+[2018.12.04-19.21.47:626][ 47]LogBlueprint: Warning: [Compiler SpinningBlade] [0045.18] Compile of SpinningBlade failed. 2 Fatal Issue(s) 0 Warning(s) [in 46 ms] (/Game/ThirdPersonBP/Maps/SpinningBlade/SpinningBlade.SpinningBlade)
+[2018.12.04-19.21.48:387][ 47]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-19.21.48:406][ 47]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-19.21.48:462][ 47]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-19.21.48:462][ 47]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2018.12.04-19.21.48:462][ 47]LogFileHelpers: Loading map 'Untitled' took 0.983
+[2018.12.04-19.21.48:465][ 47]LogSlate: Window 'Open Level' being destroyed
+[2018.12.04-19.33.42:854][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.03.36:916][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.03.37:051][964]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.12.04-21.03.37:117][964]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-21.03.37:117][964]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.04-21.03.37:157][964]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-21.03.37:157][964]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-21.03.37:157][964]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.04-21.03.37:204][964]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.04-21.03.37:298][964]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.12.04-21.03.37:416][964]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.04-21.03.37:440][964]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.04-21.03.37:471][964]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.04-21.03.37:500][964]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.04-21.03.37:543][964]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.12.04-21.03.37:569][964]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.04-21.03.37:596][964]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.04-21.03.37:640][964]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.12.04-21.03.56:658][598]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.12.04-21.03.58:889][815]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.12.04-21.03.58:976][823]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.12.04-21.04.07:809][685]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.12.04-21.04.09:205][821]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.04-21.04.09:978][896]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.12.04-21.04.18:441][718]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.12.04-21.04.18:561][728]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.12.04-21.04.21:873][ 52]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.04-21.04.29:454][789]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.04-21.04.30:261][869]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.04-21.04.33:967][234]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.04-21.04.40:581][884]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.04-21.04.40:663][892]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.04-21.04.45:835][404]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.04-21.04.50:979][912]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-21.04.51:247][939]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-21.04.55:742][382]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-21.05.01:836][979]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-21.07.36:932][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.07.43:706][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.07.43:814][797]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.07.44:351][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.07.44:996][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.07.45:092][933]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.07.45:340][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.22.27:419][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.22.42:364][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.22.50:477][489]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.04-21.22.51:317][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.22.55:154][591]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.12.04-21.22.55:170][591]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.12.04-21.22.55:179][591]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.12.04-21.22.55:187][591]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.12.04-21.22.55:195][591]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.12.04-21.22.55:203][591]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.12.04-21.22.55:213][591]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.12.04-21.22.55:222][591]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.12.04-21.22.55:231][591]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.12.04-21.22.55:253][591]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.12.04-21.22.55:262][591]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.12.04-21.22.55:271][591]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.12.04-21.22.55:279][591]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.12.04-21.22.55:288][591]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.12.04-21.22.55:303][591]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.12.04-21.22.55:310][591]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.12.04-21.22.55:321][591]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.12.04-21.22.55:329][591]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2018.12.04-21.22.55:338][591]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.12.04-21.22.55:347][591]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.12.04-21.22.55:356][591]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.12.04-21.22.55:379][591]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2018.12.04-21.22.55:387][591]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2018.12.04-21.22.55:395][591]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2018.12.04-21.22.55:403][591]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2018.12.04-21.22.55:418][591]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2018.12.04-21.22.55:430][591]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2018.12.04-21.22.55:438][591]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.22.55:446][591]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2018.12.04-21.22.55:455][591]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2018.12.04-21.22.55:464][591]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2018.12.04-21.22.55:473][591]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2018.12.04-21.22.55:482][591]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 512X512)
+[2018.12.04-21.22.55:495][591]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 512X512)
+[2018.12.04-21.22.55:515][591]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 512X512)
+[2018.12.04-21.22.55:525][591]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.22.55:533][591]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 512X512)
+[2018.12.04-21.22.55:541][591]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 512X512)
+[2018.12.04-21.22.55:550][591]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 512X512)
+[2018.12.04-21.22.55:558][591]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 512X512)
+[2018.12.04-21.22.55:576][591]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2018.12.04-21.22.55:585][591]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 512X512)
+[2018.12.04-21.22.55:593][591]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 512X512)
+[2018.12.04-21.22.55:610][591]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 512X512)
+[2018.12.04-21.22.55:620][591]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 512X512)
+[2018.12.04-21.22.55:629][591]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 512X512)
+[2018.12.04-21.22.55:638][591]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 512X512)
+[2018.12.04-21.22.55:646][591]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 512X512)
+[2018.12.04-21.22.55:655][591]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 512X512)
+[2018.12.04-21.22.55:665][591]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 512X512)
+[2018.12.04-21.22.55:674][591]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 512X512)
+[2018.12.04-21.22.55:682][591]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 512X512)
+[2018.12.04-21.22.55:691][591]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 512X512)
+[2018.12.04-21.22.55:700][591]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 512X512)
+[2018.12.04-21.22.55:708][591]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 512X512)
+[2018.12.04-21.22.55:717][591]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 512X512)
+[2018.12.04-21.22.55:727][591]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 512X512)
+[2018.12.04-21.22.55:736][591]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 512X512)
+[2018.12.04-21.22.55:753][591]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 512X512)
+[2018.12.04-21.22.55:764][591]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 512X512)
+[2018.12.04-21.22.55:772][591]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 512X512)
+[2018.12.04-21.22.55:780][591]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 512X512)
+[2018.12.04-21.22.55:790][591]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 512X512)
+[2018.12.04-21.22.55:798][591]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 512X512)
+[2018.12.04-21.22.55:807][591]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.04-21.23.13:298][591]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-21.23.13:299][591]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-21.23.19:784][592]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto1E01DE032405A5EB97C409298508439F2.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto1.umap'
+[2018.12.04-21.23.19:797][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 2.852
+[2018.12.04-21.23.19:797][592]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.852
+[2018.12.04-21.23.44:482][ 95]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.12.04-21.23.44:787][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.29.34:024][604]Cmd: TRANSACTION UNDO
+[2018.12.04-21.29.34:024][604]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.29.34:137][604]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.29.34:337][604]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.30.42:838][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.30.52:161][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.30.56:586][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.31.13:232][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.31.41:120][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.31.46:709][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.31.49:125][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.31.57:330][996]Cmd: TRANSACTION UNDO
+[2018.12.04-21.31.57:330][996]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.31.57:417][996]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.31.57:493][996]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 512X512)
+[2018.12.04-21.31.57:572][996]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2018.12.04-21.31.57:653][996]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.32.16:167][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.32.28:542][989]Cmd: TRANSACTION UNDO
+[2018.12.04-21.32.28:542][989]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.32.28:617][989]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.32.28:692][989]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.32.35:422][616]Cmd: TRANSACTION UNDO
+[2018.12.04-21.32.35:422][616]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.32.37:506][788]Cmd: TRANSACTION UNDO
+[2018.12.04-21.32.37:506][788]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.32.38:934][904]Cmd: TRANSACTION UNDO
+[2018.12.04-21.32.38:934][904]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.32.39:001][904]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.32.39:060][904]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2018.12.04-21.32.39:140][904]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.32.39:223][904]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 512X512)
+[2018.12.04-21.32.54:536][464]Cmd: TRANSACTION UNDO
+[2018.12.04-21.32.54:536][464]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.32.54:605][464]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.33.30:817][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-21.33.31:270][232]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.12.04-21.33.33:308][232]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto25FF0B8EE42D457974DF5B0A6E2A193C2.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto2.umap'
+[2018.12.04-21.33.33:313][232]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 2.468
+[2018.12.04-21.33.33:313][232]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.468
+[2018.12.04-21.38.13:794][826]Cmd: TRANSACTION UNDO
+[2018.12.04-21.38.13:794][826]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.12.04-21.38.16:582][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.43.34:036][777]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-21.43.36:127][777]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Untitled_Auto319A4005142045C353AC7C6A8C51A3C19.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/Map/Untitled_Auto3.umap'
+[2018.12.04-21.43.36:131][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 2.487
+[2018.12.04-21.43.36:131][777]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.487
+[2018.12.04-22.30.09:597][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.30.26:411][  8]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Meth\Desktop\MAC Life\Textures\RAW\old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523.jpg)
+[2018.12.04-22.30.26:995][  8]LogTexture: Display: Building textures: old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523 (BGRA8, 6016X3683)
+[2018.12.04-22.31.21:501][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Untitled' took 0.032
+[2018.12.04-22.31.21:504][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/TEXTURES/old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523] ([1] browsable assets)...
+[2018.12.04-22.31.21:512][145]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Maps/TEXTURES/old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523.old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523]
+[2018.12.04-22.31.21:512][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/TEXTURES/old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523]
+[2018.12.04-22.31.21:938][145]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/old-metal-material-rubble-waste-CBC3570B4BFB33A6612AF19FCFBDA533.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/TEXTURES/old-metal-material-rubble-waste-junkyard-iron-recycling-scrap-scrap-metal-scrap-iron-590523_Auto4.uasset'
+[2018.12.04-22.31.21:939][145]LogFileHelpers: Auto-saving content packages took 0.436
+[2018.12.04-22.31.55:134][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.33.04:987][526]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-22.33.11:223][170]LogMaterial: Display: Missing cached shader map for material MetalScrap, compiling. 
+[2018.12.04-22.33.11:266][171]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-22.33.11:266][171]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-22.33.11:266][171]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-22.33.14:080][367]LogMaterial: Display: Missing cached shader map for material MetalScrap, compiling. 
+[2018.12.04-22.33.14:101][367]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-22.33.25:749][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.33.25:872][320]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Maps/TEXTURES/MetalScrap.MetalScrap
+[2018.12.04-22.33.25:878][320]LogMaterial: Display: Missing cached shader map for material MetalScrap, compiling. 
+[2018.12.04-22.33.26:739][320]LogMaterial: Display: Missing cached shader map for material MetalScrap, compiling. 
+[2018.12.04-22.33.26:781][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.04-22.33.26:868][320]LogSlate: Took 0.007816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.04-22.33.27:222][320]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.04-22.33.27:522][322]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.04-22.33.28:764][385]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.04-22.33.29:670][419]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.04-22.33.29:671][419]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.04-22.33.29:671][419]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.04-22.33.30:670][469]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.04-22.33.30:779][474]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.04-22.33.31:841][527]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.04-22.33.32:067][538]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.04-22.33.32:164][543]LogMaterialEditor: Saving and Compiling material MetalScrap
+[2018.12.04-22.33.32:304][543]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-22.33.32:410][543]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-22.33.32:410][543]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/MetalScrap37D8546E46C68811DBD9EB994FFCC95E.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/ThirdPersonBP/Maps/TEXTURES/MetalScrap.uasset'
+[2018.12.04-22.33.33:770][612]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-22.33.34:122][630]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-22.33.36:797][858]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-22.33.42:200][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Untitled" FILE="../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Map/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.33.42:462][328]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-22.33.42:462][328]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-22.33.42:462][328]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-22.33.42:831][328]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.12.04-22.33.42:840][328]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2018.12.04-22.33.43:889][328]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-22.33.43:889][328]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-22.33.43:889][328]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-22.33.43:889][328]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-22.33.43:889][328]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-22.33.44:290][328]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-22.33.44:290][328]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-22.33.44:290][328]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-22.33.45:177][328]LogSavePackage: Moving '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Saved/UntitledE5F7917B4B80CBB72D31599CFA01442D.tmp' to '../../../../../../Users/Meth/Documents/Unreal Projects/MyProject 4.21/Content/Map/Untitled.umap'
+[2018.12.04-22.33.47:513][328]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.04-22.33.47:568][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-22.34.11:359][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.34.11:885][757]LogTemp: Repeating last play command: Simulate
+[2018.12.04-22.34.11:919][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.12.04-22.34.11:922][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.34.15:137][757]LogSlate: Window 'Message' being destroyed
+[2018.12.04-22.34.15:161][757]PIE: New page: SIE session: Untitled (4 Dec 2018 22:34:15)
+[2018.12.04-22.34.15:304][757]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Untitled
+[2018.12.04-22.34.15:803][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.498303s)
+[2018.12.04-22.34.15:803][757]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-22.34.15:804][757]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2018.12.04-22.34.15:804][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Untitled.Untitled to /Game/Map/UEDPIE_0_Untitled.Untitled (0.500185s)
+[2018.12.04-22.34.15:863][757]LogInit: XAudio2 using 'Speakers (2- Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.34.15:931][757]LogInit: FAudioDevice initialized.
+[2018.12.04-22.34.16:065][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-22.34.16:141][757]LogWorld: Bringing World /Game/Map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2018.12.04-22.34.16
+[2018.12.04-22.34.16:244][757]LogWorld: Bringing up level for play took: 0.155225
+[2018.12.04-22.34.16:367][757]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0678 seconds. Added 20 classes and 0 folders.
+[2018.12.04-22.34.16:381][757]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Untitled 4.973
+[2018.12.04-22.34.16:548][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.12.04-22.34.23:361][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.12.04-22.34.23:363][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.34.23:410][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.34.23:411][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Map/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Map/Untitled.Untitled:PersistentLevel.Untitled'
+[2018.12.04-22.34.23:445][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.34.23:506][510]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.04-22.41.01:527][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.41.05:904][630]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-22.41.05:927][630]LogSlate: Window 'MetalScrap' being destroyed
